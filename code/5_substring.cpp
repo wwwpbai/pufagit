@@ -34,4 +34,3 @@ int main()
 	AllSubString(str,str.size());
 	
 }
-
